@@ -1,32 +1,70 @@
-# Antonio Gabriel
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Antonio+Gabriel;I'm+a+Developer;And+Student+of+Systems+Analysis+ana+Development)](https://git.io/typing-svg)
 
-Estudante de Análise e Desenvolvimento de Sistemas, buscando novos conhecimentos.
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h4 align="center">- Linus Torvalds -</h4>
 
-### Conecte-se comigo
+<br>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/antonio_gabrielTI)
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=GabaDev2412&theme=radical&show_icons=true" />
+ <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaDev2412&layout=compact&theme=radical" />
+</div>
+
+<br>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/docs.php)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+
+#### Studying in this moment:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://docker.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=spring"/>](https://www.sring.com/)
+
+#### Tools:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://bancariospb.com.br/wp-content/uploads/2021/04/unipe.jpg"/>](https://www.unipe.edu.br/)
+**Analysis and Systems Development** \
+[**UNIPÊ**](https://www.unipe.edu.br/) • In progress\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://asset.brandfetch.io/idUQfJyQk7/idX7UJdxye.jpeg"/>](https://www.dio.me/)
+**Java development bootcamp with AWS cloud** \
+[**Digital Innovation One**](https://www.dio.me/) • In progress \
+Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinking` `AWS` `SQL` `NoSQL` `Git` `GitHub` `Microservices` `Spring` `Spring Security` `Spring Boot` `Swagger` `Design Patterns`
+
+<br>
+
+## Contact me:
+
+<a href="https://www.dio.me/users/antonio_gabrielTI" style="display: inline-block; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; font-family: Arial, sans-serif; font-weight: bold; text-transform: uppercase; background: linear-gradient(to right, #3498db, #e74c3c); transition: background-color 0.3s ease;">Meu Perfil na DIO</a>
+
 [![E-mail](https://img.shields.io/badge/-Email-054F77?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonio.gabrielTI@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-b51177162)
+ 
 
-### Habilidades
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blitz1319&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Blitz1319&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+Credit: [AntonioGabriel](https://github.com/GabaDev2412)
+Last Edited on: 23/03/2024
