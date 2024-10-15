@@ -60,6 +60,8 @@ Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinki
 
 <a href="https://www.dio.me/users/antonio_gabrielTI" style="display: inline-block; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; font-family: Arial, sans-serif; font-weight: bold; text-transform: uppercase; background: linear-gradient(to right, #3498db, #e74c3c); transition: background-color 0.3s ease;">Meu Perfil na DIO</a>
 
+![Visitor Count](https://profile-counter.glitch.me/{GabaDev2412}/count.svg)
+
 [![E-mail](https://img.shields.io/badge/-Email-054F77?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonio.gabrielTI@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-b51177162)
  
@@ -67,4 +69,4 @@ Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinki
 ---
 
 Credit: [AntonioGabriel](https://github.com/GabaDev2412)
-Last Edited on: 23/02/2024
+Last Edited on: 15/10/2024
