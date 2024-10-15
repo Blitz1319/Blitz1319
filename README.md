@@ -62,8 +62,13 @@ Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinki
 
 [![E-mail](https://img.shields.io/badge/-Email-054F77?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonio.gabrielTI@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-b51177162)
+
  
-![Visitor Count](https://profile-counter.glitch.me/{GabaDev2412}/count.svg)
+<div align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nerigleston/count.svg"/>
+</div>
+
 ---
 
 Credit: [AntonioGabriel](https://github.com/GabaDev2412)
